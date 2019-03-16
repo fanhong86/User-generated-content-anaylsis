@@ -1,0 +1,477 @@
+,Brand,Product,Type,Avg Rating,Number of Reviews,Percentage Would Buy Again
+0,MAC Cosmetics,Studio Fix Powder Plus Foundation,Powder,3.7,3938,0.66
+1,bareMinerals,Bare Minerals ALL,Powder,2.9,3074,0.44
+2,bareMinerals,"Bare Minerals in 1.2, fairly light",Powder,3.5,1152,0.59
+3,L'Oreal Paris,Bare Naturale Powdered Mineral Foundation,Powder,3.5,1092,0.62
+4,Physicians Formula,Mineral Wear Talc-Free Mineral Loose Powder,Powder,3.6,800,0.65
+5,bareMinerals,Matte Foundation spf 15,Powder,3.4,762,0.59
+6,Jane Iredale,Pure Pressed Base,Powder,4.0,664,0.72
+7,Maybelline New York,Mineral Power Powder Foundation,Powder,3.2,639,0.55
+8,Laura Mercier,Mineral Powder SPF 15,Powder,4.0,592,0.71
+9,Everyday Minerals,Semi-Matte Foundation,Powder,3.8,550,0.68
+10,CLINIQUE,Almost Powder Makeup SPF 15,Powder,3.9,455,0.71
+11,Alima Pure,Satin Matte Mineral Foundation,Powder,4.0,451,0.72
+12,LancÃ´me,Dual Finish Versatile Powder Makeup,Powder,3.8,434,0.68
+13,benefit Cosmetics,Hello Flawless!,Powder,3.7,422,0.63
+14,bareMinerals,BareMinerals Foundation,Powder,3.4,400,0.6
+15,Everyday Minerals,Matte Foundation,Powder,3.8,397,0.68
+16,Palladio Beauty,Herbal Dual Wet & Dry Foundation,Powder,4.1,389,0.77
+17,Stila,Illuminating Powder Foundation,Powder,3.7,375,0.63
+18,bareMinerals,Bare Minerals Foundation #2,Powder,3.4,369,0.55
+19,Sheer Cover,Sheer Cover - Mineral Foundation,Powder,3.0,350,0.46
+20,Neutrogena,Mineral Sheers Compact Powder Foundation (All Shades),Powder,3.7,329,0.66
+21,MAKE UP FOR EVER,Duo Mat Powder foundation Powder,Powder,3.8,313,0.67
+22,CLINIQUE,Perfectly Real Compact Powder Foundation,Powder,3.7,306,0.62
+23,bareMinerals,Foundation - Medium Beige,Powder,3.5,293,0.57
+24,Laura Geller New York,Balance-n-Brighten Baked Color Correcting Foundation ,Powder,3.8,289,0.63
+25,Laura Mercier,Foundation Powder,Powder,4.0,282,0.7
+26,REVLON,ColorStay Mineral Foundation,Powder,3.0,277,0.48
+27,Jane Iredale,Amazing Base Loose Finishing Powder,Powder,3.8,273,0.65
+28,EstÃ©e Lauder,Double Wear Stay-in-Place Powder Makeup,Powder,3.7,252,0.64
+29,bareMinerals,Bare Minerals #1,Powder,3.5,240,0.62
+30,Merle Norman,Ultra Powder Foundation,Powder,4.4,240,0.82
+31,CLINIQUE,Superpowder Double Face Makeup,Powder,3.8,228,0.67
+32,COVERGIRL,Clean (formerly Simply) Powder Foundation,Powder,3.9,220,0.72
+33,SHISEIDO,The Makeup Powdery Foundation SPF 15 ,Powder,4.1,211,0.75
+34,L'Oreal Paris,True Match Naturale Mineral Foundation,Powder,3.3,206,0.54
+35,REVLON,ColorStay Aqua Mineral Makeup,Powder,3.1,202,0.52
+36,GloMinerals,Pressed Base,Powder,4.1,196,0.79
+37,Mary Kay,Mineral Powder Foundation,Powder,3.7,186,0.67
+38,Merle Norman,Luxiva Purely Mineral Makeup,Powder,4.3,168,0.82
+39,NYX Professional Makeup,Stay Matte But Not Flat Powder Foundation,Powder,3.1,163,0.48
+40,REVLON,ColorStay Pressed powder,Powder,3.2,155,0.5
+41,NARS Cosmetics,Powder Foundation,Powder,3.9,155,0.65
+42,bareMinerals,Bare Minerals Foundation #3,Powder,3.3,144,0.54
+43,Cover FX,Cover Fx - Powder Fx,Powder,3.8,137,0.62
+44,Prescriptives,AnyWear Multi-finish compact foundation ,Powder,4.0,137,0.71
+45,AVEDA,Dual Base Minus Oil,Powder,4.0,133,0.71
+46,Physicians Formula,Mineral Wear Talc-Free Mineral Airbrushing Pressed Powder SPF 30,Powder,3.7,132,0.64
+47,bareMinerals,Original SPF 15 Foundation,Powder,3.5,131,0.58
+48,La Prairie,Cellular Treatment Foundation Powder,Powder,4.4,126,0.76
+49,Avon,Smooth Mineral Make-up,Powder,3.3,124,0.58
+50,Nude by Nature,Natural Mineral Cover,Powder,3.6,121,0.62
+51,mark.,Powder Buff powder foundation,Powder,3.9,110,0.69
+52,AVEDA,Inner Light Dual Foundation,Powder,4.0,106,0.76
+53,Aziza,Cream to powder foundation,Powder,3.8,106,0.78
+54,Tarte Cosmetics,Amazonian Clay Full Coverage Airbrush Foundation Powder,Powder,3.7,106,0.64
+55,PUR Cosmetics,4-in-1 Pressed Mineral Makeup (new formula),Powder,3.7,104,0.65
+56,MAKE UP FOR EVER,Pro Finish Multi-Use Powder Foundation,Powder,3.7,104,0.62
+57,It Cosmetics,Celebration Foundation,Powder,3.8,103,0.66
+58,COVERGIRL,CoverGirl Ultimate Finish Cream to Powder Makeup,Powder,2.8,101,0.47
+59,bareMinerals,BareMinerals Feather Light Mineral Veil,Powder,3.1,99,0.49
+60,Prestige,Skin Loving Minerals Gentle Finish Mineral Powder Foundation,Powder,4.0,98,0.73
+61,MILANI,Even-Touch Powder Foundation,Powder,3.7,97,0.65
+62,CHANEL,Les Beiges - Healthy Glow Sheer Powder,Powder,3.6,95,0.55
+63,Silk Naturals,Mineral Foundation,Powder,4.2,93,0.8
+64,SHISEIDO,Perfect Smoothing Compact Foundation SPF 15,Powder,3.9,93,0.68
+65,Max Factor,Facefinity Compact,Powder,4.0,90,0.8
+66,bareMinerals,#1 and #2,Powder,3.1,89,0.44
+67,Sephora Collection,Matifying Powder Foundation,Powder,3.5,89,0.58
+68,Australis,Fresh & Flawless Pressed Powder,Powder,4.5,89,0.92
+69,Dior,DiorSkin Compact Makeup,Powder,3.8,88,0.63
+70,Meow Cosmetics,Flawless Feline Mineral Foundation,Powder,3.8,88,0.65
+71,Physicians Formula,Organic Wear Translucent Light Organics Loose Powder,Powder,3.3,87,0.5
+72,Prescriptives,All Skins Mineral Foundation spf 15,Powder,3.9,87,0.68
+73,Urban Decay,Surreal Skin Foundation,Powder,3.5,86,0.6
+74,Pure Luxe Cosmetics,Mineral Powder Foundation,Powder,3.9,85,0.68
+75,Smashbox,Photo Finish Primer,Primer/ Corrector,3.2,1830,0.46
+76,benefit Cosmetics,The POREfessional Face Primer,Primer/ Corrector,3.4,1065,0.52
+77,benefit Cosmetics,Dr Feelgood,Primer/ Corrector,2.4,963,0.31
+78,L'Oreal Paris,Studio Secrets Magic Perfecting Base,Primer/ Corrector,3.4,931,0.57
+79,Monistat,Chafing Relief Powder-Gel,Primer/ Corrector,3.9,900,0.75
+80,Yves Saint Laurent,Touche Eclat (Radiant Touch),Primer/ Corrector,3.7,899,0.64
+81,MAC Cosmetics,Prep + Prime Skin,Primer/ Corrector,3.3,758,0.53
+82,Urban Decay,All Nighter Makeup Setting Spray,Primer/ Corrector,3.9,686,0.69
+83,RIMMEL,Fix and Perfect Foundation Primer,Primer/ Corrector,3.0,529,0.47
+84,benefit Cosmetics,"""That Gal"" Brightening Face Primer",Primer/ Corrector,3.2,526,0.44
+85,MAC Cosmetics,Prep + Prime Face Protect SPF 50,Primer/ Corrector,3.8,516,0.66
+86,Maybelline New York,Baby Skin Instant Pore Eraser,Primer/ Corrector,2.7,475,0.39
+87,Hourglass Cosmetics,Veil Mineral Primer SPF 15,Primer/ Corrector,3.7,473,0.61
+88,Smashbox,Photo Finish Light,Primer/ Corrector,3.4,466,0.55
+89,Laura Mercier,Foundation Primer,Primer/ Corrector,2.9,452,0.41
+90,bareMinerals,Bare Minerals Prime Time,Primer/ Corrector,3.6,433,0.6
+91,Philosophy,The Present  Clear Makeup,Primer/ Corrector,3.4,416,0.53
+92,e.l.f. Cosmetics,Mineral Infused Face Primer,Primer/ Corrector,3.5,410,0.61
+93,Hard Candy,Sheer Envy Primer,Primer/ Corrector,3.6,390,0.65
+94,Avon,MagiX Face Perfector,Primer/ Corrector,3.7,384,0.67
+95,Urban Decay,De-Slick Oil Control Makeup Setting Spray,Primer/ Corrector,3.4,354,0.53
+96,CLARINS,Instant Smooth Perfecting Touch,Primer/ Corrector,3.9,333,0.66
+97,bareMinerals,Bare Vitamins Skin Rever Upper,Primer/ Corrector,3.2,318,0.46
+98,REVLON,PhotoReady Perfecting Primer (color 001),Primer/ Corrector,3.5,310,0.58
+99,Too Faced,Primed & Poreless Skin Smoothing Face Primer,Primer/ Corrector,3.7,276,0.61
+100,Laura Geller New York,Spackle Under Makeup Primer,Primer/ Corrector,3.1,256,0.47
+101,L'Oreal Paris,Paris Studio Secrets Magic Lumi Light Infusing Primer,Primer/ Corrector,3.9,251,0.7
+102,DHC,Velvet Skin Coat,Primer/ Corrector,3.8,239,0.65
+103,Laura Mercier,Foundation Primer Oil -Free,Primer/ Corrector,2.9,208,0.45
+104,LancÃ´me,La Base Pro,Primer/ Corrector,3.7,200,0.58
+105,L'Oreal Paris,Revitalift Miracle Blur ,Primer/ Corrector,3.1,198,0.5
+106,No Brand (DIY or homemade),Milk of Magnesia as Primer,Primer/ Corrector,3.9,197,0.7
+107,RIMMEL,Stay Matte Primer,Primer/ Corrector,3.5,196,0.58
+108,RIMMEL,Fix & Perfect Pro Primer,Primer/ Corrector,3.8,186,0.72
+109,MAC Cosmetics,Matte,Primer/ Corrector,3.6,179,0.61
+110,NARS Cosmetics,Makeup primer,Primer/ Corrector,3.2,178,0.43
+111,REVLON,Beyond Natural Smoothing Primer,Primer/ Corrector,2.8,166,0.42
+112,Maybelline New York,Maybelline Coverstick Corrector Concealer,Primer/ Corrector,3.1,162,0.59
+113,Napoleon Perdis,Auto Pilot Pre-Foundation Skin Primer,Primer/ Corrector,3.2,159,0.49
+114,Maybelline New York,Instant Age Rewind Primer Skin Transformer,Primer/ Corrector,3.6,155,0.65
+115,GOSH,Velvet Touch foundation primer,Primer/ Corrector,3.6,153,0.64
+116,NYX Professional Makeup,Makeup Setting Spray - Matte Finish,Primer/ Corrector,3.4,152,0.59
+117,Urban Decay,Complexion Primer Potion - Pore Perfecting,Primer/ Corrector,3.0,149,0.38
+118,MAKE UP FOR EVER,HD Microperfecting Primer,Primer/ Corrector,3.3,147,0.49
+119,BECCA,Ever-Matte Poreless Priming Perfector,Primer/ Corrector,3.5,147,0.59
+120,Smashbox,Photo Finish Primer SPF 15 with Dermaxyl,Primer/ Corrector,3.1,145,0.43
+121,bareMinerals,Prime Time Oil Control,Primer/ Corrector,2.0,139,0.29
+122,Smashbox,Photo Finish Color Correcting Foundation Primer- Smashing Color Adjust,Primer/ Corrector,3.3,130,0.5
+123,Skindinavia,Makeup Finishing Spray,Primer/ Corrector,4.0,130,0.71
+124,NYX Professional Makeup,Dewy Finish Setting Spray,Primer/ Corrector,3.5,130,0.63
+125,Too Faced,Hangover Rx Replenishing Face Primer,Primer/ Corrector,3.7,130,0.59
+126,Agnes B.,Apricot Complexion Enhancer / L'Embellisseur Abricot,Primer/ Corrector,2.7,124,0.43
+127,Ben Nye,Final Seal,Primer/ Corrector,4.3,121,0.87
+128,LORAC,Aquaprime,Primer/ Corrector,3.3,117,0.55
+129,CHANEL,Le Blanc de Chanel Sheer Illuminating Base,Primer/ Corrector,3.9,116,0.68
+130,KORRES Natural Products,Silicone-Free Face Primer,Primer/ Corrector,3.3,115,0.5
+131,MAKE UP FOR EVER,HD Microperfecting Primer in 1 Green,Primer/ Corrector,3.3,113,0.52
+132,MAKE UP FOR EVER,HD Microperfecting Primer in 0 Neutral,Primer/ Corrector,3.2,111,0.47
+133,L'Oreal Paris,Studio Secrets Anti-Redness Primer,Primer/ Corrector,2.9,111,0.45
+134,Giorgio Armani,Master Corrector,Primer/ Corrector,4.5,111,0.84
+135,Almay,Smart Shade Perfect & Correct Primer,Primer/ Corrector,2.3,109,0.26
+136,Neutrogena,Shine Control Primer,Primer/ Corrector,3.3,109,0.56
+137,MAC Cosmetics,Prep + Prime Skin Refined Zone,Primer/ Corrector,3.4,107,0.55
+138,Laura Mercier,Foundation Primer Radiance,Primer/ Corrector,3.9,106,0.66
+139,Lise Watier,Portfolio,Primer/ Corrector,3.9,104,0.65
+140,Peter Thomas Roth,Max Anti-Shine Mattifying Gel,Primer/ Corrector,3.2,104,0.48
+141,shu uemura,UV Under Base Mousse,Primer/ Corrector,3.5,103,0.55
+142,Philosophy,the supernatural poreless flawless spf 15,Primer/ Corrector,3.6,100,0.59
+143,NYX Professional Makeup,Pore Filler,Primer/ Corrector,3.1,100,0.52
+144,Mary Kay,Oil Mattifier,Primer/ Corrector,3.8,97,0.71
+145,Boots ,Mattifying Make-up Base ,Primer/ Corrector,3.1,96,0.58
+146,Too Faced,Primed & Poreless Powder,Primer/ Corrector,4.0,96,0.73
+147,Pure Luxe Cosmetics,Eraser,Primer/ Corrector,3.9,95,0.75
+148,Tarte Cosmetics,Clean Slate Poreless 12 hr Perfecting Primer,Primer/ Corrector,3.7,95,0.67
+149,CLINIQUE,Redness Solutions Daily Protective Base,Primer/ Corrector,3.2,93,0.47
+150,Maybelline New York,Fit Me Shine-Free Foundation Stick,Stick,3.3,424,0.57
+151,Max Factor,PAN - STICK,Stick,3.9,382,0.74
+152,Bobbi Brown,Skin Foundation Stick,Stick,3.5,150,0.56
+153,SHISEIDO,The makeup Stick Foundation,Stick,4.0,123,0.71
+154,Hourglass Cosmetics,Vanish Seamless Finish Foundation Stick,Stick,3.4,101,0.54
+155,MAKE UP FOR EVER,Ultra HD Invisible Cover Stick Foundation,Stick,3.8,98,0.65
+156,Black Opal,True Color Creme Stick Foundation,Stick,4.0,71,0.76
+157,Iman,Second To None Stick Foundation,Stick,3.8,71,0.73
+158,TOM FORD,Traceless Foundation Stick,Stick,4.1,52,0.63
+159,LancÃ´me,Teint Idole Ultra Longwear Foundation Stick,Stick,4.1,50,0.7
+160,REVLON,Photoready Insta-Fix Makeup SPF 20,Stick,3.8,48,0.62
+161,Kryolan,TV Paint Stick,Stick,4.3,46,0.91
+162,Vichy,Dermablend Ultra Corrective Cream Stick,Stick,3.9,43,0.65
+163,Napoleon Perdis,Stick Foundation,Stick,3.8,42,0.66
+164,shu uemura,Nobara cream cover stick,Stick,4.3,38,0.78
+165,Anastasia Beverly Hills,Foundation Stick,Stick,3.2,29,0.44
+166,Bite Beauty,Multistick,Stick,3.8,26,0.65
+167,L.A. COLORS,Mystic foundation/concealer stick,Stick,4.1,20,0.85
+168,e.l.f. Cosmetics,Moisturizing Foundation Stick,Stick,2.7,18,0.44
+169,MyChelle,Cream Foundation,Stick,3.8,17,0.64
+170,Unlisted Brand,W3LL People Narcissist ,Stick,4.0,14,0.71
+171,Physicians Formula,Super BB All-in-1 Beauty Balm Stick,Stick,4.0,14,0.78
+172,Sonia Kashuk,Undetectable Foundation Stick,Stick,2.8,13,0.53
+173,CLINIQUE,Chubby in the Nude Foundation Stick,Stick,4.3,11,0.63
+174,Pixi,Flawless Beauty Stick,Stick,2.5,10,0.3
+175,Laura Mercier,Tinted Moisturizer SPF 20,Tinted Moisturizer,3.8,1396,0.64
+176,Laura Mercier,Tinted Moisturizer SPF 20 - Oil Free,Tinted Moisturizer,3.5,674,0.55
+177,Neutrogena,Healthy Skin Enhancer SPF 20,Tinted Moisturizer,3.7,597,0.66
+178,Tarte Cosmetics,Amazonian Clay BB Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen,Tinted Moisturizer,4.0,547,0.7
+179,NARS Cosmetics,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,Tinted Moisturizer,4.0,530,0.7
+180,COVERGIRL,CG Smoothers Tinted Moisturizer Fair to Light,Tinted Moisturizer,3.6,356,0.66
+181,COVERGIRL,CG Smoothers Tinted Moisturizer in Light to Medium,Tinted Moisturizer,3.9,336,0.74
+182,bareMinerals, Complexion Rescue Tinted Hydrating Gel Cream,Tinted Moisturizer,3.4,282,0.55
+183,benefit Cosmetics,You Rebel,Tinted Moisturizer,2.9,240,0.42
+184,Smashbox,Sheer Focus Tinted Moisturizer SPF 15,Tinted Moisturizer,3.8,227,0.63
+185,theBalm Cosmetics,BalmShelter Tinted Moisturizer SPF 18,Tinted Moisturizer,4.1,223,0.77
+186,Aveeno,Positively Radiant CC Cream SPF 30,Tinted Moisturizer,3.0,223,0.44
+187,Bobbi Brown,Extra Spf 25 Tinted Moisturizing Balm,Tinted Moisturizer,3.7,221,0.61
+188,benefit Cosmetics,You Rebel Lite Tinted Moisturizer SPF 15,Tinted Moisturizer,2.9,220,0.4
+189,e.l.f. Cosmetics,"Studio Tinted Moisturizer 
+SPF 20",Tinted Moisturizer,2.9,211,0.45
+190,Stila,Illuminating Tinted Moisturizer,Tinted Moisturizer,3.5,211,0.61
+191,Hard Candy,Sheer Envy Tinted Moisturizer spf15,Tinted Moisturizer,3.4,193,0.58
+192,Laura Mercier,Tinted Moisturizer SPF 20 - Illuminating,Tinted Moisturizer,3.7,183,0.64
+193,Physicians Formula,Organic Wear - Light to Natural ,Tinted Moisturizer,3.2,179,0.49
+194,Physicians Formula,Healthy Wear SPF 50 Tinted Moisturizer,Tinted Moisturizer,3.6,175,0.68
+195,CLINIQUE,Moisture Surge Tinted Moisturizer SPF15,Tinted Moisturizer,3.8,164,0.64
+196,LUSH,Colour Supplement,Tinted Moisturizer,3.8,154,0.72
+197,Sonia Kashuk,Radiant Tinted Moisturizer SPF 15 (tube),Tinted Moisturizer,3.5,154,0.62
+198,COVERGIRL,Cover Girl CG Smoothers Tinted Moisturizer SPF 15,Tinted Moisturizer,3.9,154,0.74
+199,wet n wild,Ultimate Sheer Tinted Moisturizer - Natural,Tinted Moisturizer,3.7,149,0.71
+200,AVEDA,Aveda Inner-Light Mineral Tinted Moisture SPF15,Tinted Moisturizer,3.4,135,0.57
+201,Neutrogena,Healthy Defense Daily Moisturizer Light Tint SPF 30,Tinted Moisturizer,2.3,119,0.25
+202,wet n wild,Ultimate Sheer Tinted Moisturizer - Sunkissed,Tinted Moisturizer,4.1,112,0.76
+203,CHANTECAILLE,Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF 15,Tinted Moisturizer,4.0,105,0.67
+204,NIVEA,Tinted Moisturizer,Tinted Moisturizer,3.0,99,0.51
+205,Pixi,illuminating tint & conceal,Tinted Moisturizer,4.1,96,0.76
+206,Glossier,Perfecting Skin Tint,Tinted Moisturizer,3.6,95,0.6
+207,Olay,Definity Color Recapture with SPF 15,Tinted Moisturizer,3.0,94,0.45
+208,wet n wild,Ultimate Sheer Tinted Moisturizer - Nude,Tinted Moisturizer,3.5,93,0.62
+209,NARS Cosmetics,Velvet matte skin tint,Tinted Moisturizer,3.1,93,0.43
+210,Josie Maran Cosmetics,Tinted Moisturizer,Tinted Moisturizer,3.3,90,0.51
+211,Sonia Kashuk,Radiant Tinted Moisturizer SPF 15  ,Tinted Moisturizer,4.3,85,0.8
+212,Physicians Formula,Organic Wear,Tinted Moisturizer,3.4,83,0.55
+213,Hourglass Cosmetics,Illusion Tinted Moisturizer Oil Free SPF 15,Tinted Moisturizer,3.5,79,0.46
+214,Jane Cosmetics,nearly foundation SPF 30,Tinted Moisturizer,2.6,79,0.39
+215,Mary Kay,Tinted Moisturizer with Sunscreen SPF 20,Tinted Moisturizer,3.6,75,0.61
+216,COVERGIRL,CG Smoothers Tinted Moisturizer - Medium to Dark,Tinted Moisturizer,3.9,73,0.78
+217,Jane Iredale,Dream Tint,Tinted Moisturizer,3.5,73,0.57
+218,e.l.f. Cosmetics,Tinted Moisturizer Spf 15,Tinted Moisturizer,3.1,71,0.5
+219,Olay,Total Effects 7-in-1 Anti-Aging UV Moisturizer Plus Touch Of Foundation,Tinted Moisturizer,3.2,69,0.5
+220,Dermalogica,Sheer Tint Moisturiser SPF 15,Tinted Moisturizer,4.1,69,0.72
+221,Sephora Collection,Tinted Moisturizer,Tinted Moisturizer,2.8,69,0.37
+222,LORAC,protecTINT SPF30 Oil-Free Tinted Moisturizer,Tinted Moisturizer,3.3,68,0.54
+223,Dr. Dennis Gross Skincare ,All-In-One Tinted Moisturizer,Tinted Moisturizer,3.8,68,0.6
+224,Elizabeth Arden,Sheer Lights tinted moisturizer,Tinted Moisturizer,3.5,67,0.55
+225,KORRES Natural Products,Korres Watermelon Lightweight Tinted Moisturizer,Tinted Moisturizer,3.2,67,0.52
+226,Dr. Hauschka,Toned Day Cream,Tinted Moisturizer,3.8,66,0.69
+227,Bobbi Brown,Oil Free Tinted Moisturizer (Spring 2011),Tinted Moisturizer,3.8,66,0.66
+228,Merle Norman,Luxiva Sheer Defense Tinted Moisturizer,Tinted Moisturizer,4.3,65,0.76
+229,Physicians Formula,Organic Wear - Fair to Light,Tinted Moisturizer,3.3,64,0.5
+230,Jane Cosmetics,Be Pure Aguaceuticals,Tinted Moisturizer,3.3,63,0.55
+231,Physicians Formula,Organic Wear - Ivory to Fair,Tinted Moisturizer,3.3,62,0.5
+232,Tarte Cosmetics,Smooth Operator Amazonian Clay Tinted Moisturizer,Tinted Moisturizer,4.1,61,0.77
+233,Stila,Illuminating Tinted Moisturizer in Shade 1,Tinted Moisturizer,3.4,60,0.56
+234,Unlisted Brand,Sarah McNamara - Miracle Skin Transformer,Tinted Moisturizer,3.5,59,0.61
+235,NIVEA,Visage Young Be Beautiful Tinted Moisturiser,Tinted Moisturizer,2.6,58,0.36
+236,LancÃ´me,Bienfait Multi-Vital Teinte SPF 30 ,Tinted Moisturizer,3.8,56,0.64
+237,DuWop,Revolotion Face,Tinted Moisturizer,3.9,56,0.66
+238,Pixi,H2O Skin Tint,Tinted Moisturizer,4.3,55,0.81
+239,Juice Beauty,Tinted Moisturizer - SPF 30,Tinted Moisturizer,3.3,52,0.44
+240,BECCA,Tinted Moisturizer,Tinted Moisturizer,3.4,52,0.57
+241,Dermalogica,sheer tint spf20,Tinted Moisturizer,3.8,52,0.65
+242,mark.,Get a Tint tinted moisturizer ,Tinted Moisturizer,3.5,52,0.59
+243,Vichy,Lumineuse - Tinted Moisturizer,Tinted Moisturizer,4.0,50,0.68
+244,SHISEIDO,Tinted Moisture Protection SPF 20,Tinted Moisturizer,3.5,48,0.56
+245,100% Pure,Fruit Pigmented Tinted Moisturizer,Tinted Moisturizer,3.6,46,0.56
+246,Stila,Sheer Color Tinted Moisturizer SPF 20 [new formula],Tinted Moisturizer,3.7,46,0.6
+247,Clearasil,Adult Care Tinted Cream,Tinted Moisturizer,3.6,46,0.76
+248,Marcelle,Sheer Tint Fluid Moisturizer SPF 15 - Creme Beige,Tinted Moisturizer,3.6,46,0.65
+249,Dove,Essential nutrients protective tinted moisturizer SPF15,Tinted Moisturizer,3.7,43,0.65
+250,L'Oreal Paris,True Match Super-Blendable Makeup SPF 17,Liquid,3.3,3203,0.56
+251,MAC Cosmetics,Studio Fix Fluid SPF 15,Liquid,3.5,2956,0.58
+252,Maybelline New York,Fit Me! Dewy/Hydrate and Smooth (formerly Fit Me),Liquid,3.1,1951,0.48
+253,NARS Cosmetics,Sheer Glow Foundation ,Liquid,3.7,1851,0.62
+254,EstÃ©e Lauder,Double Wear Stay in Place Makeup,Liquid,4.0,1660,0.71
+255,MAC Cosmetics,Studio Face and Body Foundation,Liquid,4.0,1442,0.74
+256,COVERGIRL,Outlast Stay Fabulous 3-In-1 Foundation,Liquid,3.8,1296,0.67
+257,MAC Cosmetics,Studio Sculpt SPF 15 Foundation,Liquid,3.5,1191,0.58
+258,RIMMEL,Lasting Finish 25 Hour Foundation ,Liquid,3.8,1075,0.7
+259,MAC Cosmetics,Pro Longwear Foundation,Liquid,3.8,1073,0.66
+260,Maybelline New York,FIT Me Foundation (Matte + Poreless),Liquid,3.5,933,0.61
+261,Urban Decay,Naked Skin Weightless Ultra Definition Liquid Makeup,Liquid,3.8,930,0.66
+262,Bourjois,Healthy Mix Foundation ,Liquid,4.0,927,0.74
+263,Kat Von D,Lock-It Foundation,Liquid,3.7,922,0.6
+264,CHANEL,Vitalumiere Aqua Ultra-Light Skin Perfecting Makeup SPF 15,Liquid,3.9,909,0.68
+265,L'Oreal Paris,Infallible Pro-Matte 24HR Foundation,Liquid,3.7,865,0.63
+266,EstÃ©e Lauder,Double Wear Light SPF10 ,Liquid,3.9,859,0.69
+267,RIMMEL,Stay Matte Liquid Mousse Foundation,Liquid,3.0,815,0.47
+268,COVERGIRL,TruBlend Liquid Makeup,Liquid,3.1,767,0.49
+269,CLINIQUE,Superbalanced Foundation,Liquid,3.5,750,0.58
+270,Neutrogena,Healthy Skin Liquid Makeup SPF 20,Liquid,3.4,709,0.56
+271,Laura Mercier,Laura Mercier Oil Free Foundation ,Liquid,3.6,685,0.58
+272,CLINIQUE,Even Better Makeup SPF 15,Liquid,3.7,679,0.6
+273,Almay,Clear Complexion Makeup,Liquid,3.8,659,0.7
+274,Bourjois,Healthy Mix Serum Gel Foundation,Liquid,4.1,658,0.75
+275,LancÃ´me,Teint Idole Ultra Liquid 24h Longwear SPF 15 Foundation ,Liquid,3.8,645,0.62
+276,MAC Cosmetics,Select SPF 15 Foundation,Liquid,3.1,611,0.44
+277,LancÃ´me,Teint Miracle Radiant Foundation,Liquid,3.9,607,0.69
+278,CLINIQUE,Perfectly Real Makeup,Liquid,3.5,596,0.56
+279,L'Oreal Paris,infallible never fail makeup,Liquid,3.0,596,0.47
+280,Neutrogena,Skin Clearing Oil-Free Makeup,Liquid,3.5,590,0.61
+281,CHANEL,Vitalumiere Moisture-Rich Radiance Sunscreen Fluid Makeup SPF 15,Liquid,3.9,556,0.64
+282,L'Oreal Paris,True Match Lumi Healthy Luminous Makeup,Liquid,3.5,544,0.59
+283,COVERGIRL,Clean Matte Liquid Makeup Oil Control,Liquid,3.0,540,0.5
+284,REVLON,ColorStay Makeup  SPF 20 Normal/Dry Skin,Liquid,3.8,534,0.65
+285,Bobbi Brown,Skin Foundation SPF 15 ,Liquid,3.7,504,0.61
+286,benefit Cosmetics,Hello Flawless Oxygen Wow Liquid Foundation,Liquid,3.1,501,0.42
+287,Almay,Smart Shade Makeup SPF 15,Liquid,2.9,498,0.46
+288,MAC Cosmetics,Matchmaster SPF 15 Foundation,Liquid,3.7,473,0.6
+289,Dior,Diorskin Airflash Spray Foundation,Liquid,4.0,441,0.68
+290,NARS Cosmetics,All Day Luminous Weightless Foundation,Liquid,3.3,432,0.49
+291,Maybelline New York,Super Stay Makeup,Liquid,3.5,429,0.61
+292,CHANEL,Perfection Lumiere,Liquid,3.4,422,0.5
+293,RIMMEL,Match Perfection,Liquid,3.5,419,0.65
+294,Smashbox,Studio Skin 15 Hour Wear Hydrating Foundation,Liquid,3.9,410,0.69
+295,Dior,Diorskin Forever Extreme Wear Flawless Makeup SPF25,Liquid,3.8,401,0.62
+296,Mary Kay,Medium Coverage Foundation,Liquid,3.8,386,0.68
+297,REVLON,ColorStay Stay Natural Makeup,Liquid,3.8,381,0.68
+298,BECCA,Luminous Skin Color sheer foundation,Liquid,3.9,378,0.68
+299,CLINIQUE,Acne Solutions Liquid Makeup Foundation,Liquid,3.7,362,0.68
+300,REVLON,ColorStay Makeup (24 hour formula),Liquid,3.1,355,0.51
+301,Stila,Illuminating Liquid Foundation,Liquid,3.6,330,0.58
+302,L'Oreal Paris,Visible Lift Serum Absolute Advanced Age-Reversing Makeup,Liquid,3.9,318,0.69
+303,bareMinerals,bareSkinÂ® Pure Brightening Serum Foundation Broad Spectrum SPF 20,Liquid,3.2,311,0.5
+304,REVLON,Beyond Natural Skin Matching Makeup SPF 15,Liquid,3.2,296,0.48
+305,REVLON,Color Stay Liquid Foundation Combination/Oily,Liquid,3.8,288,0.69
+306,Maybelline New York,Instant Age Rewind foundation,Liquid,3.6,278,0.63
+307,Almay,Nearly Naked Touch-Pad liquid makeup,Liquid,2.8,277,0.4
+308,Prescriptives,Traceless ,Liquid,3.9,273,0.71
+309,Prescriptives,Flawless Skin Total Protection Makeup SPF 15,Liquid,3.4,268,0.55
+310,REVLON,PhotoReady Airbrush Mousse Makeup,Liquid,2.5,266,0.31
+311,MAKE UP FOR EVER,Ultra HD Foundation,Liquid,3.3,260,0.51
+312,Bobbi Brown,Moisture Rich Foundation SPF15,Liquid,3.6,256,0.64
+313,CLINIQUE,Beyond Perfecting Foundation & Concealer,Liquid,3.3,253,0.52
+314,La Prairie,Skin Caviar Concealer Foundation  SPF15,Liquid,4.1,251,0.65
+315,Maybelline New York,Instant Age Rewind Eraser Foundation,Liquid,3.5,249,0.61
+316,COVERGIRL,CG Smoothers All Day Hydrating Makeup,Liquid,3.7,248,0.67
+317,e.l.f. Cosmetics,Flawless Finish Foundation,Liquid,3.6,243,0.62
+318,CLINIQUE,Stay-Matte Oil-Free Makeup,Liquid,3.7,243,0.61
+319,CLARINS,Everlasting Foundation SPF 15,Liquid,3.8,237,0.62
+320,COVERGIRL,Advanced Radiance Age Defying - Liquid,Liquid,3.6,232,0.61
+321,Physicians Formula,Mineral Wear Talc-Free Mineral Liquid Foundation,Liquid,3.3,231,0.56
+322,CLINIQUE,Anti-Blemish Solutions Liquid Makeup,Liquid,3.6,217,0.62
+323,COVERGIRL,Clean Makeup,Liquid,2.7,205,0.39
+324,Max Factor,FaceFinity All Day Flawless 3 in 1,Liquid,3.5,201,0.61
+325,REVLON,ColorStay Whipped Creme Makeup,CrÃ¨me,3.9,1380,0.69
+326,COVERGIRL,AquaSmooth SPF15 Make-up,CrÃ¨me,3.6,942,0.65
+327,MAC Cosmetics,Studio Tech foundation,CrÃ¨me,3.5,899,0.59
+328,benefit Cosmetics,Some Kind-A Gorgeous,CrÃ¨me,3.0,572,0.44
+329,COVERGIRL,+ Olay Simply Ageless 3-In-1 Liquid Foundation,CrÃ¨me,3.5,444,0.59
+330,CHANTECAILLE,Future Skin,CrÃ¨me,3.8,330,0.62
+331,REVLON,New Complexion One-Step Compact Makeup,CrÃ¨me,3.6,309,0.63
+332,Bobbi Brown,Oil-Free Even Finish Compact Foundation,CrÃ¨me,3.1,284,0.48
+333,Vincent Longo,Water Canvas,CrÃ¨me,3.9,258,0.69
+334,Cinema Secrets,Ultimate Foundation,CrÃ¨me,4.3,220,0.81
+335,MAC Cosmetics,Full Coverage Foundation ,CrÃ¨me,3.8,212,0.68
+336,MAC Cosmetics,Mineralize Foundation,CrÃ¨me,3.7,201,0.63
+337,L'Oreal Paris,True Match Super Blendable Compact Makeup,CrÃ¨me,2.9,197,0.48
+338,SHISEIDO,Hydro-Liquid Compact,CrÃ¨me,3.6,179,0.6
+339,Graftobian ,"HD CREME FOUNDATIONS, 64 SHADES",CrÃ¨me,4.1,170,0.78
+340,Mary Kay,Cream-to-Powder Foundation,CrÃ¨me,3.5,123,0.65
+341,ClÃ© de Peau BeautÃ©,Cream Foundation ,CrÃ¨me,3.9,106,0.69
+342,RCMA Makeup,Color Process Foundation,CrÃ¨me,4.2,99,0.75
+343,CHANEL,Double Perfection Creme Poudre (Creme Powder Makeup),CrÃ¨me,3.6,98,0.59
+344,Maybelline New York,Dream Velvet Soft Matte Hydrating Foundation,CrÃ¨me,2.9,88,0.36
+345,L'Oreal Paris,True Match Roller,CrÃ¨me,2.7,87,0.32
+346,Sue Devitt,Triple C-weed Whipped Foundation,CrÃ¨me,3.6,87,0.58
+347,Illuminare,Extra Coverage Foundation/ Concealer,CrÃ¨me,4.1,86,0.75
+348,Elizabeth Arden,Flawless Finish Sponge-On Creme Make-up,CrÃ¨me,3.7,85,0.68
+349,Urban Decay,Surreal Skin Cream to Powder Foundation,CrÃ¨me,3.5,85,0.5
+350,Mehron Makeup,Celebre HD Pro Cream Foundation,CrÃ¨me,4.0,84,0.75
+351,CLINIQUE,City Base Foundation,CrÃ¨me,3.1,82,0.46
+352,Dr. Hauschka,Translucent Make-up,CrÃ¨me,3.9,81,0.7
+353,Neutrogena,Healthy Skin Compact Makeup SPF 55 Helioplex,CrÃ¨me,2.6,76,0.35
+354,LancÃ´me,Absolue Foundation,CrÃ¨me,4.1,74,0.74
+355,mark.,Speedway Do Everything Foundation Stick,CrÃ¨me,3.7,74,0.66
+356,theBalm Cosmetics,TimeBalm Foundation,CrÃ¨me,4.0,72,0.72
+357,Exuviance by NeoStrata,Skin Caring Foundation,CrÃ¨me,3.9,67,0.7
+358,REVLON,PhotoReady Compact Makeup,CrÃ¨me,3.1,66,0.51
+359,CHANTECAILLE,Real Skin Foundation SPF30 ,CrÃ¨me,3.9,65,0.67
+360,Maybelline New York,Maybelline EverFresh,CrÃ¨me,3.3,64,0.57
+361,L'Oreal Paris,Matte Morphose,CrÃ¨me,3.2,58,0.53
+362,Unlisted Brand,Dermacol Make-up Cover,CrÃ¨me,3.5,58,0.55
+363,Lacura,Beauty Foundation,CrÃ¨me,3.8,56,0.73
+364,Merle Norman,Total Finish Compact Makeup,CrÃ¨me,3.8,56,0.67
+365,CHANTECAILLE,Real Skin Makeup,CrÃ¨me,3.8,54,0.7
+366,NARS Cosmetics,Radiant Cream Compact Foundation,CrÃ¨me,3.5,54,0.59
+367,Cover FX,Total Cover Cream Foundation SPF 30,CrÃ¨me,3.4,52,0.57
+368,Stila,Complete Coverage,CrÃ¨me,3.0,51,0.43
+369,MILANI,Smooth Finish Makeup,CrÃ¨me,4.0,47,0.74
+370,LancÃ´me,Magique Mousse Foundation,CrÃ¨me,3.8,46,0.63
+371,Iman,Cream to Powder,CrÃ¨me,3.5,45,0.6
+372,REVLON,Age Defying Makeup,CrÃ¨me,3.0,45,0.46
+373,Paula Dorf,Perfect Glo ,CrÃ¨me,3.9,45,0.73
+374,Dermablend,Dermablend Leg & Body Creme,CrÃ¨me,3.7,43,0.67
+375,CHANEL,Vitalumiere Hydra (Moist Radiance Emulsion Compact),CrÃ¨me,4.3,43,0.76
+376,COVERGIRL,Aqua Smooth Make-Up - Creamy Natural 720,CrÃ¨me,4.0,43,0.79
+377,L'Oreal Paris,Visible Lift Repair Absolute,CrÃ¨me,3.5,42,0.54
+378,CHANEL,Teint Compact Creme Universel SPF15,CrÃ¨me,4.0,40,0.67
+379,RMK,Creamy liquid foundation,CrÃ¨me,4.1,39,0.69
+380,Boots ,No7 Intelligent Colour Foundation,CrÃ¨me,3.3,38,0.57
+381,Trish McEvoy,Cream Powder Makeup,CrÃ¨me,4.0,38,0.71
+382,Ben Nye,Matte Foundation,CrÃ¨me,4.0,36,0.77
+383,Exuviance by NeoStrata,Coverblend Concealing Treatment Makeup SPF 20,CrÃ¨me,3.9,35,0.71
+384,Signature Club A,"""8 Butters Creamery Makeup & Blend-in Concealer"" (from jet-tech kit)",CrÃ¨me,3.1,35,0.51
+385,e.l.f. Cosmetics,Shielding Hydro-Tint spf 15- Tone 2,CrÃ¨me,2.9,35,0.4
+386,By Terry,Sheer Expert Perfecting Fluid Foundation,CrÃ¨me,4.3,35,0.74
+387,Avon,Ideal Shade Cream to Powder Foundation SPF 15,CrÃ¨me,2.9,35,0.45
+388,The Body Shop,Flawless Skin Protecting Foundation SPF 25,CrÃ¨me,3.8,35,0.54
+389,Inglot Cosmetics,YSM Cream Foundation,CrÃ¨me,4.2,35,0.68
+390,Scott Barnes,creme foundation,CrÃ¨me,4.1,34,0.7
+391,Almay,Clear Complexion Compact Makeup,CrÃ¨me,3.3,34,0.58
+392,benefit Cosmetics,Some Kind-a Gorgeous Lite,CrÃ¨me,3.0,33,0.57
+393,Avene,Couvrance Compact Foundation SPF 30,CrÃ¨me,3.3,31,0.51
+394,Max Factor,Silk perfection cream to powder ,CrÃ¨me,3.1,31,0.51
+395,CHANEL,vitalumiere Aqua Fresh and Hydrating Cream Compact Makeup,CrÃ¨me,3.4,29,0.55
+396,The Body Shop,Extra Virgin Minerals Cream Compact Foundation,CrÃ¨me,2.7,28,0.25
+397,SHISEIDO,Sun Protection Stick Foundation SPF35,CrÃ¨me,4.3,28,0.78
+398,Smashbox,Conversion Cream to Powder foundation,CrÃ¨me,3.6,28,0.53
+399,ClÃ© de Peau BeautÃ©,Teint Naturel Satine,CrÃ¨me,4.7,27,0.92
+400,Maybelline New York,Dream Fresh BB 8-in-1 Cream,BB Cream,3.2,1418,0.52
+401,MISSHA,M Perfect Cover BB Cream SPF 42 PA+++,BB Cream,3.8,1062,0.67
+402,Garnier,BB Cream Miracle Skin Perfector - Light/Medium,BB Cream,2.8,932,0.39
+403,L'Oreal Paris,Magic Skin Beautifier BB Cream,BB Cream,3.3,584,0.56
+404,It Cosmetics,Your Skin But Better SPF 50 CC Cream,BB Cream,3.7,582,0.61
+405,Skin79,Super Plus Beblesh Balm Triple Functions Whitening UV Protection SPF25 PA++ (Hot Pink),BB Cream,4.0,561,0.68
+406,Garnier,BB Cream Miracle Skin Perfector for Combination to Oily Skin - Light,BB Cream,3.5,531,0.64
+407,Skin79,Super Plus Beblesh Balm Triple Functions - VIP Gold,BB Cream,4.2,327,0.74
+408,Smashbox,Camera Ready BB Cream SPF 35,BB Cream,3.5,322,0.53
+409,RIMMEL,BB Cream 9-in-1 Skin Perfecting Super Makeup SPF 25,BB Cream,3.1,310,0.49
+410,Tarte Cosmetics,BB tinted treatment 12-hour primer Broad Spectrum SPF 30 sunscreen,BB Cream,3.9,251,0.68
+411,Garnier,BB Cream Miracle Skin Perfector for Combination to Oily Skin,BB Cream,3.7,241,0.69
+412,REVLON,Photoready BB Cream SPF 30,BB Cream,3.0,240,0.44
+413,CLINIQUE,Moisture Surge CC Cream SPF 30,BB Cream,3.6,200,0.54
+414,MISSHA, M Signature Real Complete B.B. Cream SPF 25 PA++,BB Cream,4.1,200,0.75
+415,Bobbi Brown,BB Cream SPF 35 PA+++,BB Cream,3.7,198,0.58
+416,Physicians Formula,Super BB All-In-One Beauty Balm Cream,BB Cream,3.7,172,0.67
+417,Dr. Jart+,Premium Beauty Balm SPF 45 PA+++ ,BB Cream,3.8,150,0.66
+418,MAC Cosmetics,Prep + Prime BB Beauty Balm SPF 35,BB Cream,3.6,149,0.66
+419,COVERGIRL,CG Smoothers BB Cream,BB Cream,3.2,147,0.53
+420,CLINIQUE,Age Defense BB Cream SPF 30,BB Cream,3.5,143,0.58
+421,EstÃ©e Lauder,DayWear BB Anti-Oxidant Beauty Benefit Creme SPF 35,BB Cream,3.5,137,0.52
+422,Urban Decay,Naked Skin Beauty Balm,BB Cream,2.9,131,0.43
+423,L'Oreal Paris,Nude Magique BB Cream,BB Cream,2.8,130,0.39
+424,Lumene,Bright Now Vitamin C BB Cream SPF 20,BB Cream,4.2,128,0.78
+425,Garnier,BB Cream Miracle Skin Perfector - Medium/Deep,BB Cream,3.0,125,0.45
+426,Marcelle,BB Cream Beauty Balm,BB Cream,3.8,118,0.68
+427,Boscia,BB Cream SPF 27 PA++,BB Cream,3.3,115,0.5
+428,Dior,Diorskin Nude BB Creme,BB Cream,3.8,114,0.64
+429,Lioele ,Triple Solution BB Cream SPF30 PA++,BB Cream,3.9,113,0.69
+430,Jane Iredale,Glow Time Full-Coverage Mineral BB Cream,BB Cream,3.6,108,0.62
+431,Skin79,Super Plus Beblesh Balm Triple Functions UV Interception SPF50+ PA+++ (Vital Orange),BB Cream,3.9,104,0.6
+432,The Body Shop,All-In-One BB Cream,BB Cream,3.0,100,0.42
+433,L'Oreal Paris,Youth Code BB Cream Illuminator,BB Cream,3.1,100,0.45
+434,COVERGIRL,Clean Matte BB Cream,BB Cream,3.9,97,0.71
+435,CHANEL,CC Cream,BB Cream,3.5,96,0.55
+436,SKINFOOD,Aloe Sun BB Cream SPF 20 PA+,BB Cream,3.3,95,0.43
+437,Dr. Jart+,Water Fuse Beauty Balm SPF 25 PA++,BB Cream,3.6,94,0.57
+438,Lioele ,Beyond the Solution BB Cream,BB Cream,3.7,86,0.52
+439,NYX Professional Makeup,BB Beauty Balm,BB Cream,3.8,83,0.71
+440,benefit Cosmetics,Big Easy,BB Cream,3.4,83,0.57
+441,Olay,Fresh Effects in Light/Medium,BB Cream,2.4,81,0.28
+442,Urban Decay,Naked Skin One and Done,BB Cream,3.7,79,0.62
+443,MISSHA,Cho Bo Yang BB Cream,BB Cream,4.2,73,0.75
+444,RIMMEL,BB Cream Matte 9-in-1 Skin Perfecting Super Makeup SPF 15,BB Cream,3.2,72,0.5
+445,Lumene,Time Freeze Anti-Age Color Correcting CC Cream,BB Cream,4.2,70,0.78
+446,Physicians Formula,Super CC+ Cream SPF 30,BB Cream,3.8,69,0.63
+447,e.l.f. Cosmetics,Studio BB Cream SPF 20,BB Cream,3.3,68,0.51
+448,Holika Holika,Aqua Petit Jelly BB Cream,BB Cream,3.8,67,0.71
+449,Aveeno,Clear Complexion BB Cream,BB Cream,2.7,66,0.37
+450,Dr. Jart+,Blemish Balm Cream (black label),BB Cream,3.4,66,0.54
+451,The Body Shop,Tea Tree Flawless BB Cream,BB Cream,2.8,64,0.43
+452,It Cosmetics,CC+ Cream Illumination SPF50+,BB Cream,3.5,64,0.56
+453,Olay,"Total Effects Tone Correcting ""CC"" Cream",BB Cream,2.2,60,0.23
+454,FLOWER Beauty,BB Cream,BB Cream,3.8,59,0.61
+455,Dior,Hydra Life BB Creme,BB Cream,3.6,57,0.52
+456,BRTC,Jasmine Water BB Cream SPF 30 PA++,BB Cream,3.6,57,0.56
+457,Physicians Formula,Organic Wear CC Cream SPF 20,BB Cream,3.7,57,0.66
+458,CLARINS,BB Skin Perfecting Cream SPF 25,BB Cream,3.7,56,0.55
+459,SKINFOOD,Mushroom Multi Care BB Cream SPF 20 PA+,BB Cream,3.8,55,0.65
+460,LANEIGE,Snow BB Soothing Cushion SPF 50+ PA+++,BB Cream,3.7,54,0.64
+461,Dr. Jart+,Rejuvenating Silver Label BB Cream SPF 30,BB Cream,3.6,52,0.57
+462,L'Oreal Paris,Nude Magique CC Cream Anti-Redness SPF 12,BB Cream,2.7,50,0.38
+463,Kiehl's,Actively Correcting & Beautifying BB Cream,BB Cream,3.3,49,0.53
+464,Garnier,BB Cream Miracle Skin Perfector for Combination to Oily Skin - Medium,BB Cream,3.4,48,0.56
+465,GUERLAIN,Lingerie de Peau BB Invisible Skin-Fusion Multi-Perfecting Make-Up SPF 30,BB Cream,4.3,48,0.72
+466,Too Faced,Air Buffed BB Creme SPF 20,BB Cream,3.0,47,0.51
+467,SKINFOOD,Peach Sake Pore BB Cream SPF20 PA+,BB Cream,3.4,47,0.46
+468,REVLON,Age Defying CC Cream,BB Cream,2.9,46,0.45
+469,Etude House,BB Magic Cream,BB Cream,3.8,45,0.75
+470,erborian,BB Cream au Ginseng,BB Cream,4.2,45,0.75
+471,The Face Shop,Power Perfection BB Cream,BB Cream,3.7,45,0.73
+472,Holika Holika,Petit BB Cream - Clearing,BB Cream,4.2,45,0.75
+473,AmorePacific,Color Control Cushion Compact Broad Spectrum SPF 50+,BB Cream,3.6,45,0.46
+474,Supergoop!,Daily Correct CC Cream Broad Spectrum SPF 35,BB Cream,4.1,45,0.71
