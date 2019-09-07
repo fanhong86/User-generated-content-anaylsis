@@ -1,3 +1,4 @@
 # User Generated Content Analytics 
-> text analytics using python
+
+Text analytics using python
 
